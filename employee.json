@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Manoj",
+    "role": "Developer",
+    "salary": 30000
+  },
+  {
+    "id": 1766066938071,
+    "name": "manoj",
+    "role": "devops",
+    "salary": "450000"
+  },
+  {
+    "id": 1766067061910,
+    "name": "asda",
+    "role": "assas",
+    "salary": "324324"
+  },
+  {
+    "id": 1766067307949,
+    "name": "dz",
+    "role": "asdas",
+    "salary": "asda"
+  }
+]
